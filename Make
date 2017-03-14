@@ -1,0 +1,9 @@
+-R src TG
+
+src/Prelim.v
+src/TG0.v
+src/TG1.v
+src/TG2.v
+src/TG3.v
+src/TG4.v
+src/TG5.v
